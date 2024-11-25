@@ -7,16 +7,13 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      title: 
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+        We engineer intelligent microrobots for biomedical applications in targeted drug delivery, microsurgery, detoxification, and diagnostics by advancing micro- and nanofabrication as well as ultrasound technologies. To realize their full potential, medical microrobots have to master locomotion in complex biofluidic environments, wireless actuation and control, precise imaging and localization, or effective drug/cargo delivery. We overcome these challenges by incorporating biologically-inspired adaptive capabilities into microrobotic agents and utilize lab-on-a-chip and microfluidic systems to validate biological and therapeutic functions. We thus bridge the gap between biomedical research and clinical applications to propel medical microrobots to the forefront of modern healthcare.
+          <br>
+
   - block: collection
     content:
       title: Latest News
