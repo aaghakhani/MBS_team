@@ -1,1 +1,21 @@
 // Override this file to add your own SCSS styling.
+.navbar {
+    display: flex; /* Use Flexbox for layout */
+    justify-content: flex-start; /* Align items to the left */
+    align-items: center; /* Align items vertically */
+    padding: 0 20px; /* Optional: Add some padding around the navbar */
+  
+    .nav-item {
+      margin-right: 15px; /* Add spacing between navigation items */
+    
+    }
+    // .justify-content-end {
+    //     justify-content: start;}    
+  }
+  .justify-content-start {
+    justify-content: flex-start !important;
+  }
+  
+  .justify-content-end {
+    justify-content: start;
+  }
