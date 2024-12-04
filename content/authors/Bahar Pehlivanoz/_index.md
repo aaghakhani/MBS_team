@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Mahmut Yorulmaz
+title: Bahar Pehlivanöz
 
 # Full name (for SEO)
-first_name: Mahmut
-last_name: Yorulmaz
+first_name: Bahar
+last_name: Pehlivanöz
 
 # Username (this should match the folder name)
 authors:
-  - Mahmut Yorulmaz
+  - Bahar Pehlivanöz
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
   - Artificial Intelligence
@@ -65,7 +65,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'bahar.pehlivanoez@bio.uni-stuttgart.de'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,6 +73,11 @@ user_groups:
 - PhD Researchers
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Research: microfluidic systems, microfabrication, medical microrobots, biomedical applications
+Personal: traveling, taking landscape photos, baking, museums
+2020 M.Sc., Biomedical Engineering (BME), Sakarya University
+2015 B.Sc., Biomedical Engineering (BME), Tekirdağ Namık Kemal University
+Email: bahar.pehlivanoez@bio.uni-stuttgart.de
+Linkedin: www.linkedin.com/in/bahar-pehlivanöz-91424b144
+Twitter: https://twitter.com/baharphlvnz
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

@@ -7,12 +7,14 @@ type: landing
 sections:
   - block: hero
     content:
-      title: 
-      image:
-        filename: welcome.jpg
+      title: "Welcome to Microrobotic Biomedical Systems group 👋"
       text: |
         We engineer intelligent microrobots for biomedical applications in targeted drug delivery, microsurgery, detoxification, and diagnostics by advancing micro- and nanofabrication as well as ultrasound technologies. To realize their full potential, medical microrobots have to master locomotion in complex biofluidic environments, wireless actuation and control, precise imaging and localization, or effective drug/cargo delivery. We overcome these challenges by incorporating biologically-inspired adaptive capabilities into microrobotic agents and utilize lab-on-a-chip and microfluidic systems to validate biological and therapeutic functions. We thus bridge the gap between biomedical research and clinical applications to propel medical microrobots to the forefront of modern healthcare.
-          <br>
+      image:
+        filename: welcome.jpg
+        size: contain
+        position: left
+
 
   - block: collection
     content:
@@ -55,7 +57,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Latest Papers
       text: ""
       count: 5
       filters:
