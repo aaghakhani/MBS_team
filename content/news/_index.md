@@ -1,11 +1,12 @@
 ---
-title: Recent & Upcoming Events
+title: News
+cms_exclude: true
 
-# Listing view
+# View
 view: compact
 
-# Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# Optional cover image (relative to `assets/media/` folder).
+image:
+  caption: ""
+  filename: ""
 ---
